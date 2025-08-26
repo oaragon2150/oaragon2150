@@ -11,7 +11,7 @@ Transitioning from a 5-year career as a Marine Corps Avionics Technician into cy
 Dedicated and results-driven veteran with 5 years of experience in the U.S. Marine Corps, seeking to leverage a strong background in technical problem-solving and foundational cybersecurity skills to secure a Tier 1 SOC Analyst position.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
