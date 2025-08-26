@@ -23,7 +23,7 @@ Dedicated and results-driven veteran with 5 years of experience in the U.S. Mari
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
